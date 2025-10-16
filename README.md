@@ -23,17 +23,18 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
         - ER Clinic - Robertson Ebling dos Santos
 
 ## Nossos projetos
-    - Agenda Pilates - ? - https://github.com/alexandrezamberlan/agenda_pilates
-    - Busca Direito (Sistema de rastreamento em Tribunais Federais) - https://github.com/alexandrezamberlan/buscadir
-    - Circuito Longevos - https://longevos.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/longevos
-    - Residência UFN Online - https://residencia.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/residenciaUFNOnline
-    - Sistema de Agendamento para Gestão do Ensino em Saúde - https://sages.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/sistemaAgendaEnsinoSaude
-    - Sistema de Avaliação Online de Artigos Científicos - https://saoa.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/saoa
-    - Sistema de Gestão de Atas Laboratório de Práticas - https://atas.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/sistemaGestaoAtas
-    - Sistema de Gestão de Projetos COMIC UFN - https://comic.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/comic
-    - Sistema de Informação para Coleta de Indicadores de Atletas em Esportes de Invasão - https://siei.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/siei
-    - Sistema de Gestão de Eventos UFN - https://sge.ufn.edu.br - https://github.com/alexandrezamberlan/sgeufn (publico)
-    - Sistema Online para Monitoramento da Diabetes - https://somdiabetes.lapinf.ufn.edu.br/ - https://github.com/alexandrezamberlan/sistemaMonitoramentoDiabeticos
-    - TFGOnline ou TCCOnline - https://tfgonline.lapinf.ufn.edu.br - https://github.com/alexandrezamberlan/tfgonline
+
+- [Agenda Pilates](https://github.com/alexandrezamberlan/agenda_pilates)
+- [Busca Direito (Sistema de rastreamento em Tribunais Federais)](https://github.com/alexandrezamberlan/buscadir)
+- [Circuito Longevos](https://longevos.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/longevos)
+- [Residência UFN Online](https://residencia.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/residenciaUFNOnline)
+- [Sistema de Agendamento para Gestão do Ensino em Saúde](https://sages.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/sistemaAgendaEnsinoSaude)
+- [Sistema de Avaliação Online de Artigos Científicos](https://saoa.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/saoa)
+- [Sistema de Gestão de Atas Laboratório de Práticas](https://atas.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/sistemaGestaoAtas)
+- [Sistema de Gestão de Projetos COMIC UFN](https://comic.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/comic)
+- [Sistema de Informação para Coleta de Indicadores de Atletas em Esportes de Invasão](https://siei.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/siei)
+- [Sistema de Gestão de Eventos UFN](https://sge.ufn.edu.br) – [repositório GitHub (público)](https://github.com/alexandrezamberlan/sgeufn)
+- [Sistema Online para Monitoramento da Diabetes](https://somdiabetes.lapinf.ufn.edu.br/) – [repositório GitHub](https://github.com/alexandrezamberlan/sistemaMonitoramentoDiabeticos)
+- [TFGOnline ou TCCOnline](https://tfgonline.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/tfgonline)
 
 
