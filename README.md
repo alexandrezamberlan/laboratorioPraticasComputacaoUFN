@@ -24,8 +24,8 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
 
 ## Nossos projetos
 
-- [Agenda Pilates](https://github.com/alexandrezamberlan/agenda_pilates)
-- [Busca Direito (Sistema de rastreamento em Tribunais Federais)](https://github.com/alexandrezamberlan/buscadir)
+- Agenda Pilates - [repositório GitHub](https://github.com/alexandrezamberlan/agenda_pilates)
+- Busca Direito - [repositório GitHub](Sistema de rastreamento em Tribunais Federais)](https://github.com/alexandrezamberlan/buscadir)
 - [Circuito Longevos](https://longevos.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/longevos)
 - [Residência UFN Online](https://residencia.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/residenciaUFNOnline)
 - [Sistema de Agendamento para Gestão do Ensino em Saúde](https://sages.lapinf.ufn.edu.br) – [repositório GitHub](https://github.com/alexandrezamberlan/sistemaAgendaEnsinoSaude)
