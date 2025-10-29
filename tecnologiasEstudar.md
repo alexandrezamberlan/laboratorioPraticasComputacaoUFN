@@ -11,3 +11,4 @@
 5) API: IA Generativa
    - Estudar e usar o Open Router
 6) Bibliotecas: Pandas, Numpy e Matplotlib
+7) VENV do ecossistema Python ou Docker
