@@ -12,8 +12,10 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
     - Alunos
         - Camille Rodrigues - Sistemas de Informação
         - Gabriel Braganholo - Ciência da Computação
+        - Guilherme Frazon - Ciência da Computação
         - Guilherme Henriques - Ciência da Computação
         - Guilherme Scher - Ciência da Computação
+        - José Otávio Baggio - Ciência da Computação
         - Luiz Batista Cardoso - Ciência da Computação
         - Luiza Karlec - Ciência da Computação
         - Pedro Henrique Canabarro - Ciência da Computação
