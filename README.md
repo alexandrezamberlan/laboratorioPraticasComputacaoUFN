@@ -27,8 +27,9 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
         - Bruno Difante
         - Camille Rodrigues - Sistemas de Informação
         
-    - Empresa parceira
+    - Empresas parceiras
         - ER Clinic - Robertson Ebling dos Santos
+        - DMPasa Tecnologia - Deivson Pasa
 
 ## Nossos projetos
 
