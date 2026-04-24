@@ -10,13 +10,16 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
 
     - Alunos ATUAIS
         - Diana Frazon - Ciência da Computação
-        - Gabriel Braganholo - Ciência da Computação        
+        - Gabriel Morais Braganholo - Ciência da Computação        
         - Guilherme Henriques - Ciência da Computação
         - Guilherme Scher - Ciência da Computação
+        - José Barros - Ciência da Computação
         - José Otávio Baggio - Ciência da Computação
         - Luiz Batista Cardoso - Ciência da Computação
         - Luiza Karlec - Ciência da Computação
+        - Maria Antônia Espinosa Woltmann - Ciência da Computação 
         - Pedro Henrique Canabarro - Ciência da Computação
+        - Rafael Maruyama Dias - Ciência da Computação
         - Vanessa Cezar - Ciência da Computação
         - Vitor Dorneles - Ciência da Computação
 
