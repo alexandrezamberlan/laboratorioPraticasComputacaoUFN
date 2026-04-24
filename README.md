@@ -20,7 +20,7 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
         - Maria Antônia Espinosa Woltmann - Ciência da Computação 
         - Pedro Henrique Canabarro - Ciência da Computação
         - Rafael Maruyama Dias - Ciência da Computação
-        - Vanessa Cezar - Ciência da Computação
+        - Vanessa Cezar do Nascimento - Ciência da Computação
         - Vitor Dorneles - Ciência da Computação
 
     - Alunos ANTIGOS
