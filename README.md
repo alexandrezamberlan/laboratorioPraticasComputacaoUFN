@@ -1,4 +1,4 @@
-# Laboratório de Práticas da Computação UFN
+# Laboratório de Práticas da Computação UFN - https://github.com/Laboratorio-de-Praticas-Computacao-UFN
 
 Repositório do Laboratório de Práticas da Computação da Universidade Franciscana, contendo links de projetos (outros gits) e gestão de atividades
 
