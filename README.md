@@ -6,6 +6,7 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
     - Professores:
         - Alexandre Zamberlan - responsável técnico e integrante do Laboratório de Práticas da Computação
         - Ana Paula Canal - coordenadora dos cursos de Computação UFN
+        - Luiz Batista Cardoso - Ciência da Computação
         - Ricardo Frohlich da Silva - coordenador adjunto dos cursos de Computação UFN
 
     - Alunos ATUAIS
@@ -13,12 +14,10 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
         - Gabriel Morais Braganholo - Ciência da Computação        
         - Guilherme Henriques - Ciência da Computação
         - Guilherme Scher - Ciência da Computação
-        - José Barros - Ciência da Computação
+        - Nyx Barros - Ciência da Computação
         - José Otávio Baggio - Ciência da Computação
-        - Luiz Batista Cardoso - Ciência da Computação
         - Luiza Karlec - Ciência da Computação
         - Maria Antônia Espinosa Woltmann - Ciência da Computação 
-        - Pedro Henrique Canabarro - Ciência da Computação
         - Rafael Maruyama Dias - Ciência da Computação
         - Vanessa Cezar do Nascimento - Ciência da Computação
         - Vitor Dorneles - Ciência da Computação
@@ -26,6 +25,7 @@ Repositório do Laboratório de Práticas da Computação da Universidade Franci
     - Alunos ANTIGOS
         - Bruno Difante
         - Camille Rodrigues - Sistemas de Informação
+        - Pedro Henrique Canabarro - Ciência da Computação
         
     - Empresas parceiras
         - ER Clinic - Robertson Ebling dos Santos
